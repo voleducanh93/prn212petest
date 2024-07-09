@@ -1,0 +1,376 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PRN212\\Session08-PE\\BookManagement_HoangNgocTrinh.8\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1EA34F8A-DD47-4A2E-824D-A230B29A77BF}|BookManagement_HoangNgocTrinh\\BookManagement_HoangNgocTrinh.csproj|d:\\prn212\\session08-pe\\bookmanagement_hoangngoctrinh.8\\bookmanagement_hoangngoctrinh\\bookdetailwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1EA34F8A-DD47-4A2E-824D-A230B29A77BF}|BookManagement_HoangNgocTrinh\\BookManagement_HoangNgocTrinh.csproj|solutionrelative:bookmanagement_hoangngoctrinh\\bookdetailwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EA34F8A-DD47-4A2E-824D-A230B29A77BF}|BookManagement_HoangNgocTrinh\\BookManagement_HoangNgocTrinh.csproj|D:\\PRN212\\Session08-PE\\BookManagement_HoangNgocTrinh.8\\bookmanagement_hoangngoctrinh\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1EA34F8A-DD47-4A2E-824D-A230B29A77BF}|BookManagement_HoangNgocTrinh\\BookManagement_HoangNgocTrinh.csproj|solutionrelative:bookmanagement_hoangngoctrinh\\loginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EA34F8A-DD47-4A2E-824D-A230B29A77BF}|BookManagement_HoangNgocTrinh\\BookManagement_HoangNgocTrinh.csproj|D:\\PRN212\\Session08-PE\\BookManagement_HoangNgocTrinh.8\\bookmanagement_hoangngoctrinh\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1EA34F8A-DD47-4A2E-824D-A230B29A77BF}|BookManagement_HoangNgocTrinh\\BookManagement_HoangNgocTrinh.csproj|solutionrelative:bookmanagement_hoangngoctrinh\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EA34F8A-DD47-4A2E-824D-A230B29A77BF}|BookManagement_HoangNgocTrinh\\BookManagement_HoangNgocTrinh.csproj|D:\\PRN212\\Session08-PE\\BookManagement_HoangNgocTrinh.8\\bookmanagement_hoangngoctrinh\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{1EA34F8A-DD47-4A2E-824D-A230B29A77BF}|BookManagement_HoangNgocTrinh\\BookManagement_HoangNgocTrinh.csproj|solutionrelative:bookmanagement_hoangngoctrinh\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EA34F8A-DD47-4A2E-824D-A230B29A77BF}|BookManagement_HoangNgocTrinh\\BookManagement_HoangNgocTrinh.csproj|D:\\PRN212\\Session08-PE\\BookManagement_HoangNgocTrinh.8\\bookmanagement_hoangngoctrinh\\bookmanagement_hoangngoctrinh.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1EA34F8A-DD47-4A2E-824D-A230B29A77BF}|BookManagement_HoangNgocTrinh\\BookManagement_HoangNgocTrinh.csproj|solutionrelative:bookmanagement_hoangngoctrinh\\bookmanagement_hoangngoctrinh.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C2BD2D2-0BB1-479F-8B24-973E3DDD7F51}|BookManagement.DAL\\BookManagement.DAL.csproj|D:\\PRN212\\Session08-PE\\BookManagement_HoangNgocTrinh.8\\bookmanagement.dal\\models\\bookmanagementdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C2BD2D2-0BB1-479F-8B24-973E3DDD7F51}|BookManagement.DAL\\BookManagement.DAL.csproj|solutionrelative:bookmanagement.dal\\models\\bookmanagementdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EA34F8A-DD47-4A2E-824D-A230B29A77BF}|BookManagement_HoangNgocTrinh\\BookManagement_HoangNgocTrinh.csproj|D:\\PRN212\\Session08-PE\\BookManagement_HoangNgocTrinh.8\\bookmanagement_hoangngoctrinh\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1EA34F8A-DD47-4A2E-824D-A230B29A77BF}|BookManagement_HoangNgocTrinh\\BookManagement_HoangNgocTrinh.csproj|solutionrelative:bookmanagement_hoangngoctrinh\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EA34F8A-DD47-4A2E-824D-A230B29A77BF}|BookManagement_HoangNgocTrinh\\BookManagement_HoangNgocTrinh.csproj|D:\\PRN212\\Session08-PE\\BookManagement_HoangNgocTrinh.8\\bookmanagement_hoangngoctrinh\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EA34F8A-DD47-4A2E-824D-A230B29A77BF}|BookManagement_HoangNgocTrinh\\BookManagement_HoangNgocTrinh.csproj|solutionrelative:bookmanagement_hoangngoctrinh\\loginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EA34F8A-DD47-4A2E-824D-A230B29A77BF}|BookManagement_HoangNgocTrinh\\BookManagement_HoangNgocTrinh.csproj|D:\\PRN212\\Session08-PE\\BookManagement_HoangNgocTrinh.8\\bookmanagement_hoangngoctrinh\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EA34F8A-DD47-4A2E-824D-A230B29A77BF}|BookManagement_HoangNgocTrinh\\BookManagement_HoangNgocTrinh.csproj|solutionrelative:bookmanagement_hoangngoctrinh\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EA34F8A-DD47-4A2E-824D-A230B29A77BF}|BookManagement_HoangNgocTrinh\\BookManagement_HoangNgocTrinh.csproj|D:\\PRN212\\Session08-PE\\BookManagement_HoangNgocTrinh.8\\bookmanagement_hoangngoctrinh\\bookdetailwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{1EA34F8A-DD47-4A2E-824D-A230B29A77BF}|BookManagement_HoangNgocTrinh\\BookManagement_HoangNgocTrinh.csproj|solutionrelative:bookmanagement_hoangngoctrinh\\bookdetailwindow.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C2BD2D2-0BB1-479F-8B24-973E3DDD7F51}|BookManagement.DAL\\BookManagement.DAL.csproj|D:\\PRN212\\Session08-PE\\BookManagement_HoangNgocTrinh.8\\bookmanagement.dal\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C2BD2D2-0BB1-479F-8B24-973E3DDD7F51}|BookManagement.DAL\\BookManagement.DAL.csproj|solutionrelative:bookmanagement.dal\\repositories\\bookrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C2BD2D2-0BB1-479F-8B24-973E3DDD7F51}|BookManagement.DAL\\BookManagement.DAL.csproj|D:\\PRN212\\Session08-PE\\BookManagement_HoangNgocTrinh.8\\bookmanagement.dal\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C2BD2D2-0BB1-479F-8B24-973E3DDD7F51}|BookManagement.DAL\\BookManagement.DAL.csproj|solutionrelative:bookmanagement.dal\\models\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B81873B-7FA5-4A41-8545-44FAA92AAA12}|BookManagement.BLL\\BookManagement.BLL.csproj|D:\\PRN212\\Session08-PE\\BookManagement_HoangNgocTrinh.8\\bookmanagement.bll\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B81873B-7FA5-4A41-8545-44FAA92AAA12}|BookManagement.BLL\\BookManagement.BLL.csproj|solutionrelative:bookmanagement.bll\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B81873B-7FA5-4A41-8545-44FAA92AAA12}|BookManagement.BLL\\BookManagement.BLL.csproj|D:\\PRN212\\Session08-PE\\BookManagement_HoangNgocTrinh.8\\bookmanagement.bll\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B81873B-7FA5-4A41-8545-44FAA92AAA12}|BookManagement.BLL\\BookManagement.BLL.csproj|solutionrelative:bookmanagement.bll\\services\\categoryservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C2BD2D2-0BB1-479F-8B24-973E3DDD7F51}|BookManagement.DAL\\BookManagement.DAL.csproj|D:\\PRN212\\Session08-PE\\BookManagement_HoangNgocTrinh.8\\bookmanagement.dal\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C2BD2D2-0BB1-479F-8B24-973E3DDD7F51}|BookManagement.DAL\\BookManagement.DAL.csproj|solutionrelative:bookmanagement.dal\\repositories\\categoryrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C2BD2D2-0BB1-479F-8B24-973E3DDD7F51}|BookManagement.DAL\\BookManagement.DAL.csproj|D:\\PRN212\\Session08-PE\\BookManagement_HoangNgocTrinh.8\\bookmanagement.dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C2BD2D2-0BB1-479F-8B24-973E3DDD7F51}|BookManagement.DAL\\BookManagement.DAL.csproj|solutionrelative:bookmanagement.dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EA34F8A-DD47-4A2E-824D-A230B29A77BF}|BookManagement_HoangNgocTrinh\\BookManagement_HoangNgocTrinh.csproj|D:\\PRN212\\Session08-PE\\BookManagement_HoangNgocTrinh.8\\bookmanagement_hoangngoctrinh\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EA34F8A-DD47-4A2E-824D-A230B29A77BF}|BookManagement_HoangNgocTrinh\\BookManagement_HoangNgocTrinh.csproj|solutionrelative:bookmanagement_hoangngoctrinh\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C2BD2D2-0BB1-479F-8B24-973E3DDD7F51}|BookManagement.DAL\\BookManagement.DAL.csproj|D:\\PRN212\\Session08-PE\\BookManagement_HoangNgocTrinh.8\\bookmanagement.dal\\models\\bookcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C2BD2D2-0BB1-479F-8B24-973E3DDD7F51}|BookManagement.DAL\\BookManagement.DAL.csproj|solutionrelative:bookmanagement.dal\\models\\bookcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EA34F8A-DD47-4A2E-824D-A230B29A77BF}|BookManagement_HoangNgocTrinh\\BookManagement_HoangNgocTrinh.csproj|D:\\PRN212\\Session08-PE\\BookManagement_HoangNgocTrinh.8\\bookmanagement_hoangngoctrinh\\app.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "RelativeMoniker": "D:0:0:{1EA34F8A-DD47-4A2E-824D-A230B29A77BF}|BookManagement_HoangNgocTrinh\\BookManagement_HoangNgocTrinh.csproj|solutionrelative:bookmanagement_hoangngoctrinh\\app.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C2BD2D2-0BB1-479F-8B24-973E3DDD7F51}|BookManagement.DAL\\BookManagement.DAL.csproj|D:\\PRN212\\Session08-PE\\BookManagement_HoangNgocTrinh.8\\bookmanagement.dal\\bookmanagement.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4C2BD2D2-0BB1-479F-8B24-973E3DDD7F51}|BookManagement.DAL\\BookManagement.DAL.csproj|solutionrelative:bookmanagement.dal\\bookmanagement.dal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\quang\\OneDrive\\Documents\\FPTU\\Schedule\\2024\\SUMMER\\PRN212\\BookManagement_HoangNgocTrinh.8\\Management.BLL\\Class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\quang\\OneDrive\\Documents\\FPTU\\Schedule\\2024\\SUMMER\\PRN212\\BookManagement_HoangNgocTrinh.8\\management.dal\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8b06f52-6d01-11d2-aa7d-00c04f990343}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "BookRepository.cs",
+              "DocumentMoniker": "D:\\PRN212\\Session08-PE\\BookManagement_HoangNgocTrinh.8\\BookManagement.DAL\\Repositories\\BookRepository.cs",
+              "RelativeDocumentMoniker": "BookManagement.DAL\\Repositories\\BookRepository.cs",
+              "ToolTip": "D:\\PRN212\\Session08-PE\\BookManagement_HoangNgocTrinh.8\\BookManagement.DAL\\Repositories\\BookRepository.cs",
+              "RelativeToolTip": "BookManagement.DAL\\Repositories\\BookRepository.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAwDMAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T07:29:41.851Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BookService.cs",
+              "DocumentMoniker": "D:\\PRN212\\Session08-PE\\BookManagement_HoangNgocTrinh.8\\BookManagement.BLL\\Services\\BookService.cs",
+              "RelativeDocumentMoniker": "BookManagement.BLL\\Services\\BookService.cs",
+              "ToolTip": "D:\\PRN212\\Session08-PE\\BookManagement_HoangNgocTrinh.8\\BookManagement.BLL\\Services\\BookService.cs",
+              "RelativeToolTip": "BookManagement.BLL\\Services\\BookService.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAhwBUAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T07:18:43.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "BookDetailWindow.xaml.cs",
+              "DocumentMoniker": "D:\\PRN212\\Session08-PE\\BookManagement_HoangNgocTrinh.8\\BookManagement_HoangNgocTrinh\\BookDetailWindow.xaml.cs",
+              "RelativeDocumentMoniker": "BookManagement_HoangNgocTrinh\\BookDetailWindow.xaml.cs",
+              "ToolTip": "D:\\PRN212\\Session08-PE\\BookManagement_HoangNgocTrinh.8\\BookManagement_HoangNgocTrinh\\BookDetailWindow.xaml.cs",
+              "RelativeToolTip": "BookManagement_HoangNgocTrinh\\BookDetailWindow.xaml.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAawDoAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-24T06:12:40.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BookDetailWindow.xaml",
+              "DocumentMoniker": "D:\\PRN212\\Session08-PE\\BookManagement_HoangNgocTrinh.8\\BookManagement_HoangNgocTrinh\\BookDetailWindow.xaml",
+              "RelativeDocumentMoniker": "BookManagement_HoangNgocTrinh\\BookDetailWindow.xaml",
+              "ToolTip": "D:\\PRN212\\Session08-PE\\BookManagement_HoangNgocTrinh.8\\BookManagement_HoangNgocTrinh\\BookDetailWindow.xaml",
+              "RelativeToolTip": "BookManagement_HoangNgocTrinh\\BookDetailWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-24T06:12:38.905Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Book.cs",
+              "DocumentMoniker": "D:\\PRN212\\Session08-PE\\BookManagement_HoangNgocTrinh.8\\BookManagement.DAL\\Models\\Book.cs",
+              "RelativeDocumentMoniker": "BookManagement.DAL\\Models\\Book.cs",
+              "ToolTip": "D:\\PRN212\\Session08-PE\\BookManagement_HoangNgocTrinh.8\\BookManagement.DAL\\Models\\Book.cs",
+              "RelativeToolTip": "BookManagement.DAL\\Models\\Book.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T07:11:06.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LoginWindow.xaml",
+              "DocumentMoniker": "D:\\PRN212\\Session08-PE\\BookManagement_HoangNgocTrinh.8\\BookManagement_HoangNgocTrinh\\LoginWindow.xaml",
+              "RelativeDocumentMoniker": "BookManagement_HoangNgocTrinh\\LoginWindow.xaml",
+              "ToolTip": "D:\\PRN212\\Session08-PE\\BookManagement_HoangNgocTrinh.8\\BookManagement_HoangNgocTrinh\\LoginWindow.xaml",
+              "RelativeToolTip": "BookManagement_HoangNgocTrinh\\LoginWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-24T06:12:54.879Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "D:\\PRN212\\Session08-PE\\BookManagement_HoangNgocTrinh.8\\BookManagement_HoangNgocTrinh\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "BookManagement_HoangNgocTrinh\\MainWindow.xaml.cs",
+              "ToolTip": "D:\\PRN212\\Session08-PE\\BookManagement_HoangNgocTrinh.8\\BookManagement_HoangNgocTrinh\\MainWindow.xaml.cs",
+              "RelativeToolTip": "BookManagement_HoangNgocTrinh\\MainWindow.xaml.cs",
+              "ViewState": "AQIAADcAAAAAAAAAAAASwEQAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T03:39:36.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\PRN212\\Session08-PE\\BookManagement_HoangNgocTrinh.8\\BookManagement_HoangNgocTrinh\\appsettings.json",
+              "RelativeDocumentMoniker": "BookManagement_HoangNgocTrinh\\appsettings.json",
+              "ToolTip": "D:\\PRN212\\Session08-PE\\BookManagement_HoangNgocTrinh.8\\BookManagement_HoangNgocTrinh\\appsettings.json",
+              "RelativeToolTip": "BookManagement_HoangNgocTrinh\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-29T07:55:33.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "D:\\PRN212\\Session08-PE\\BookManagement_HoangNgocTrinh.8\\BookManagement_HoangNgocTrinh\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "BookManagement_HoangNgocTrinh\\MainWindow.xaml",
+              "ToolTip": "D:\\PRN212\\Session08-PE\\BookManagement_HoangNgocTrinh.8\\BookManagement_HoangNgocTrinh\\MainWindow.xaml",
+              "RelativeToolTip": "BookManagement_HoangNgocTrinh\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-24T06:12:56.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "BookManagementDbContext.cs",
+              "DocumentMoniker": "D:\\PRN212\\Session08-PE\\BookManagement_HoangNgocTrinh.8\\BookManagement.DAL\\Models\\BookManagementDbContext.cs",
+              "RelativeDocumentMoniker": "BookManagement.DAL\\Models\\BookManagementDbContext.cs",
+              "ToolTip": "D:\\PRN212\\Session08-PE\\BookManagement_HoangNgocTrinh.8\\BookManagement.DAL\\Models\\BookManagementDbContext.cs",
+              "RelativeToolTip": "BookManagement.DAL\\Models\\BookManagementDbContext.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAwBYAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T06:07:52.471Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginWindow.xaml.cs",
+              "DocumentMoniker": "D:\\PRN212\\Session08-PE\\BookManagement_HoangNgocTrinh.8\\BookManagement_HoangNgocTrinh\\LoginWindow.xaml.cs",
+              "RelativeDocumentMoniker": "BookManagement_HoangNgocTrinh\\LoginWindow.xaml.cs",
+              "ToolTip": "D:\\PRN212\\Session08-PE\\BookManagement_HoangNgocTrinh.8\\BookManagement_HoangNgocTrinh\\LoginWindow.xaml.cs",
+              "RelativeToolTip": "BookManagement_HoangNgocTrinh\\LoginWindow.xaml.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAACYAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T03:42:19.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "App.xaml",
+              "DocumentMoniker": "D:\\PRN212\\Session08-PE\\BookManagement_HoangNgocTrinh.8\\BookManagement_HoangNgocTrinh\\App.xaml",
+              "RelativeDocumentMoniker": "BookManagement_HoangNgocTrinh\\App.xaml",
+              "ToolTip": "D:\\PRN212\\Session08-PE\\BookManagement_HoangNgocTrinh.8\\BookManagement_HoangNgocTrinh\\App.xaml",
+              "RelativeToolTip": "BookManagement_HoangNgocTrinh\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-06-29T03:51:56.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "BookManagement_HoangNgocTrinh.csproj",
+              "DocumentMoniker": "D:\\PRN212\\Session08-PE\\BookManagement_HoangNgocTrinh.8\\BookManagement_HoangNgocTrinh\\BookManagement_HoangNgocTrinh.csproj",
+              "RelativeDocumentMoniker": "BookManagement_HoangNgocTrinh\\BookManagement_HoangNgocTrinh.csproj",
+              "ToolTip": "D:\\PRN212\\Session08-PE\\BookManagement_HoangNgocTrinh.8\\BookManagement_HoangNgocTrinh\\BookManagement_HoangNgocTrinh.csproj",
+              "RelativeToolTip": "BookManagement_HoangNgocTrinh\\BookManagement_HoangNgocTrinh.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-26T06:53:15.1Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CategoryService.cs",
+              "DocumentMoniker": "D:\\PRN212\\Session08-PE\\BookManagement_HoangNgocTrinh.8\\BookManagement.BLL\\Services\\CategoryService.cs",
+              "RelativeDocumentMoniker": "BookManagement.BLL\\Services\\CategoryService.cs",
+              "ToolTip": "D:\\PRN212\\Session08-PE\\BookManagement_HoangNgocTrinh.8\\BookManagement.BLL\\Services\\CategoryService.cs",
+              "RelativeToolTip": "BookManagement.BLL\\Services\\CategoryService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T07:14:36.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CategoryRepository.cs",
+              "DocumentMoniker": "D:\\PRN212\\Session08-PE\\BookManagement_HoangNgocTrinh.8\\BookManagement.DAL\\Repositories\\CategoryRepository.cs",
+              "RelativeDocumentMoniker": "BookManagement.DAL\\Repositories\\CategoryRepository.cs",
+              "ToolTip": "D:\\PRN212\\Session08-PE\\BookManagement_HoangNgocTrinh.8\\BookManagement.DAL\\Repositories\\CategoryRepository.cs",
+              "RelativeToolTip": "BookManagement.DAL\\Repositories\\CategoryRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T07:14:02.933Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\PRN212\\Session08-PE\\BookManagement_HoangNgocTrinh.8\\BookManagement.DAL\\Class1.cs",
+              "RelativeDocumentMoniker": "BookManagement.DAL\\Class1.cs",
+              "ToolTip": "D:\\PRN212\\Session08-PE\\BookManagement_HoangNgocTrinh.8\\BookManagement.DAL\\Class1.cs",
+              "RelativeToolTip": "BookManagement.DAL\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T07:18:20.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "D:\\PRN212\\Session08-PE\\BookManagement_HoangNgocTrinh.8\\BookManagement_HoangNgocTrinh\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "BookManagement_HoangNgocTrinh\\AssemblyInfo.cs",
+              "ToolTip": "D:\\PRN212\\Session08-PE\\BookManagement_HoangNgocTrinh.8\\BookManagement_HoangNgocTrinh\\AssemblyInfo.cs",
+              "RelativeToolTip": "BookManagement_HoangNgocTrinh\\AssemblyInfo.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T05:58:36.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BookCategory.cs",
+              "DocumentMoniker": "D:\\PRN212\\Session08-PE\\BookManagement_HoangNgocTrinh.8\\BookManagement.DAL\\Models\\BookCategory.cs",
+              "RelativeDocumentMoniker": "BookManagement.DAL\\Models\\BookCategory.cs",
+              "ToolTip": "D:\\PRN212\\Session08-PE\\BookManagement_HoangNgocTrinh.8\\BookManagement.DAL\\Models\\BookCategory.cs",
+              "RelativeToolTip": "BookManagement.DAL\\Models\\BookCategory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-29T06:06:42.721Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "D:\\PRN212\\Session08-PE\\BookManagement_HoangNgocTrinh.8\\BookManagement_HoangNgocTrinh\\App.xaml.cs",
+              "RelativeDocumentMoniker": "BookManagement_HoangNgocTrinh\\App.xaml.cs",
+              "ToolTip": "D:\\PRN212\\Session08-PE\\BookManagement_HoangNgocTrinh.8\\BookManagement_HoangNgocTrinh\\App.xaml.cs",
+              "RelativeToolTip": "BookManagement_HoangNgocTrinh\\App.xaml.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T06:38:45.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\quang\\OneDrive\\Documents\\FPTU\\Schedule\\2024\\SUMMER\\PRN212\\BookManagement_HoangNgocTrinh.8\\Management.BLL\\Class1.cs",
+              "ToolTip": "C:\\Users\\quang\\OneDrive\\Documents\\FPTU\\Schedule\\2024\\SUMMER\\PRN212\\BookManagement_HoangNgocTrinh.8\\Management.BLL\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T07:12:59.302Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\quang\\OneDrive\\Documents\\FPTU\\Schedule\\2024\\SUMMER\\PRN212\\BookManagement_HoangNgocTrinh.8\\Management.DAL\\Class1.cs",
+              "ToolTip": "C:\\Users\\quang\\OneDrive\\Documents\\FPTU\\Schedule\\2024\\SUMMER\\PRN212\\BookManagement_HoangNgocTrinh.8\\Management.DAL\\Class1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-26T06:53:09.572Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BookManagement.DAL.csproj",
+              "DocumentMoniker": "D:\\PRN212\\Session08-PE\\BookManagement_HoangNgocTrinh.8\\BookManagement.DAL\\BookManagement.DAL.csproj",
+              "RelativeDocumentMoniker": "BookManagement.DAL\\BookManagement.DAL.csproj",
+              "ToolTip": "D:\\PRN212\\Session08-PE\\BookManagement_HoangNgocTrinh.8\\BookManagement.DAL\\BookManagement.DAL.csproj",
+              "RelativeToolTip": "BookManagement.DAL\\BookManagement.DAL.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-26T07:21:04.851Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
