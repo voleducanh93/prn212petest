@@ -53,6 +53,20 @@ namespace BookManagement.DAL.Repositories
         }//đã xong insert sách mới, new Book từ GUI đưa xuống, vì từ GUI ta có màn hình nhập mới cuốn sách, pass từ Service
         //TƯƠNG TỰ TA CÓ HÀM Update(Book x), Delete(Book x), Delete(int BookId)
         //remove 1 object từ List, hoặc remove theo PK where Id
+
+        public void Update(Book x)
+        {
+            _context = new();
+            _context.Books.Update(x);
+            _context.SaveChanges();
+
+        }
+        public void Delete(Book x)
+        {
+            _context = new();
+            _context.Books.Remove(x);
+            _context.SaveChanges();
+        }
     }
 }
 //MÔ HÌNH CHẠY SỬ DỤNG CLASS

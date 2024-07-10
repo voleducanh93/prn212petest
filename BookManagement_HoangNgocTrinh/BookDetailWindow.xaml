@@ -7,7 +7,7 @@
         mc:Ignorable="d"
         Title="Book Detail" Height="750" Width="1145" Background="#FFE4E3E2" ResizeMode="NoResize" WindowStartupLocation="CenterScreen" Loaded="Window_Loaded" >
     <Grid>
-        <Label Content="Create | Update Book" HorizontalAlignment="Left" Height="80" Margin="31,20,0,0" VerticalAlignment="Top" Width="659" FontWeight="Heavy" FontSize="50" Background="#FFE4E3E2"/>
+        <Label x:Name="BookModeLabel" Content="Create | Update Book" HorizontalAlignment="Left" Height="80" Margin="31,20,0,0" VerticalAlignment="Top" Width="659" FontWeight="Heavy" FontSize="50" Background="#FFE4E3E2"/>
         <Rectangle HorizontalAlignment="Left" Height="545" Margin="38,144,0,0" Stroke="#FFB7B7B7" VerticalAlignment="Top" Width="875" Fill="#FFB7B7B7"/>
         <Label Content="Book ID" HorizontalAlignment="Left" Height="45" Margin="58,172,0,0" VerticalAlignment="Top" Width="107" Foreground="#191A16" Background="#FFB7B7B7"/>
         <TextBox x:Name="BookIdTextBox" HorizontalAlignment="Left" Height="45" Margin="226,169,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="275" TabIndex="0" />
@@ -15,7 +15,7 @@
         <TextBox x:Name="BookNameTextBox" HorizontalAlignment="Left" Height="45" Margin="226,229,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="637" TabIndex="1"/>
 
         <Button x:Name="SaveButton" Content="Save Book" HorizontalAlignment="Left" Height="50" Margin="945,144,0,0" VerticalAlignment="Top" Width="165" TabIndex="8" Style="{StaticResource Button}" Click="SaveButton_Click"/>
-        <Button x:Name="CloseButton" Content="Close" HorizontalAlignment="Left" Height="50" Margin="945,224,0,0" VerticalAlignment="Top" Width="165" TabIndex="9" Style="{StaticResource Button}" />
+        <Button x:Name="CloseButton" Content="Close" HorizontalAlignment="Left" Height="50" Margin="945,224,0,0" VerticalAlignment="Top" Width="165" TabIndex="9" Style="{StaticResource Button}" Click="CloseButton_Click" />
         <Label Content="Book Desc" HorizontalAlignment="Left" Height="45" Margin="58,296,0,0" VerticalAlignment="Top" Width="107" Foreground="#191A16" Background="#FFB7B7B7"/>
         <TextBox x:Name="DescriptionTextBox" HorizontalAlignment="Left" Height="118" Margin="226,291,0,0" TextWrapping="Wrap"  VerticalAlignment="Top" Width="637" TabIndex="2" AcceptsReturn="True" VerticalScrollBarVisibility="Visible"/>
         <Label Content="Book Quantity" HorizontalAlignment="Left" Height="45" Margin="58,496,0,0" VerticalAlignment="Top" Width="140" Foreground="#191A16" Background="#FFB7B7B7"/>

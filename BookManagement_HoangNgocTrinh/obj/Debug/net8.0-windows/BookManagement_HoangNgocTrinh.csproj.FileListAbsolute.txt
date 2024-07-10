@@ -82,3 +82,4 @@ D:\PRN212\Session08-PE\BookManagement_HoangNgocTrinh.8\BookManagement_HoangNgocT
 D:\PRN212\Session08-PE\BookManagement_HoangNgocTrinh.8\BookManagement_HoangNgocTrinh\obj\Debug\net8.0-windows\BookManagement_HoangNgocTrinh.pdb
 D:\PRN212\Session08-PE\BookManagement_HoangNgocTrinh.8\BookManagement_HoangNgocTrinh\obj\Debug\net8.0-windows\BookManagement_HoangNgocTrinh.genruntimeconfig.cache
 D:\PRN212\Session08-PE\BookManagement_HoangNgocTrinh.8\BookManagement_HoangNgocTrinh\obj\Debug\net8.0-windows\ref\BookManagement_HoangNgocTrinh.dll
+D:\PRN212\Session08-PE\BookManagement_HoangNgocTrinh.8\BookManagement_HoangNgocTrinh\obj\Debug\net8.0-windows\BookManagement_HoangNgocTrinh.sourcelink.json

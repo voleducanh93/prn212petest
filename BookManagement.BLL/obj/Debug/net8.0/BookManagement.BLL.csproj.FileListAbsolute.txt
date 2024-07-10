@@ -13,3 +13,4 @@ D:\PRN212\Session08-PE\BookManagement_HoangNgocTrinh.8\BookManagement.BLL\obj\De
 D:\PRN212\Session08-PE\BookManagement_HoangNgocTrinh.8\BookManagement.BLL\obj\Debug\net8.0\refint\BookManagement.BLL.dll
 D:\PRN212\Session08-PE\BookManagement_HoangNgocTrinh.8\BookManagement.BLL\obj\Debug\net8.0\BookManagement.BLL.pdb
 D:\PRN212\Session08-PE\BookManagement_HoangNgocTrinh.8\BookManagement.BLL\obj\Debug\net8.0\ref\BookManagement.BLL.dll
+D:\PRN212\Session08-PE\BookManagement_HoangNgocTrinh.8\BookManagement.BLL\obj\Debug\net8.0\BookManagement.BLL.sourcelink.json

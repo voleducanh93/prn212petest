@@ -28,5 +28,16 @@ namespace BookManagement.BLL.Services
         {
             _repo.Create(x); //hàm vừa biết xong. K cần new Repo()
         }
+
+        public void UpdateBooK(Book x)
+        {
+            _repo.Update(x);
+        }
+
+        public void DeleteBook(Book x)
+        {
+            _repo.Delete(x);
+        }
+
     }
 }

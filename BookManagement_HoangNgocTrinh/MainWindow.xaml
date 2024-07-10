@@ -19,8 +19,8 @@
 
         <Button Content="Create Book" HorizontalAlignment="Left" Height="50" Margin="1019,391,0,0" VerticalAlignment="Top" Width="165" TabIndex="4" Style="{StaticResource Button}" Click="Button_Click" />
 
-        <Button x:Name="UpdateButton" Content="Update Book" HorizontalAlignment="Left" Height="50" Margin="1019,472,0,0" VerticalAlignment="Top" Width="165" TabIndex="5" Style="{StaticResource Button}" />
-        <Button x:Name="DeleteButton" Content="Delete Book" HorizontalAlignment="Left" Height="50" Margin="1019,549,0,0" VerticalAlignment="Top" Width="165" TabIndex="6" Style="{StaticResource Button}" />
+        <Button x:Name="UpdateButton" Content="Update Book" HorizontalAlignment="Left" Height="50" Margin="1019,472,0,0" VerticalAlignment="Top" Width="165" TabIndex="5" Style="{StaticResource Button}" Click="UpdateButton_Click" />
+        <Button x:Name="DeleteButton" Content="Delete Book" HorizontalAlignment="Left" Height="50" Margin="1019,549,0,0" VerticalAlignment="Top" Width="165" TabIndex="6" Style="{StaticResource Button}" Click="DeleteButton_Click" />
         <Button x:Name="QuitButton" Content="Quit" HorizontalAlignment="Left" Height="50" Margin="1072,35,0,0" VerticalAlignment="Top" Width="90" TabIndex="7" Style="{StaticResource Button}" Click="QuitButton_Click" />
         <Label Content="© 2024 giáo.làng" HorizontalAlignment="Left" Height="45" Margin="34,611,0,0" VerticalAlignment="Top" Width="182" Foreground="#FFD05736"/>
 

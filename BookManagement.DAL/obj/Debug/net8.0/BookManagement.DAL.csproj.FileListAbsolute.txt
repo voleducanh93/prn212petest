@@ -12,3 +12,4 @@ D:\PRN212\Session08-PE\BookManagement_HoangNgocTrinh.8\BookManagement.DAL\obj\De
 D:\PRN212\Session08-PE\BookManagement_HoangNgocTrinh.8\BookManagement.DAL\obj\Debug\net8.0\BookManagement.DAL.pdb
 D:\PRN212\Session08-PE\BookManagement_HoangNgocTrinh.8\BookManagement.DAL\obj\Debug\net8.0\BookManagement.DAL.genruntimeconfig.cache
 D:\PRN212\Session08-PE\BookManagement_HoangNgocTrinh.8\BookManagement.DAL\obj\Debug\net8.0\ref\BookManagement.DAL.dll
+D:\PRN212\Session08-PE\BookManagement_HoangNgocTrinh.8\BookManagement.DAL\obj\Debug\net8.0\BookManagement.DAL.sourcelink.json
